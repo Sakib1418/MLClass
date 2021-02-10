@@ -1,10 +1,10 @@
 ---
 title: | 
          CS 474/574 Machine Learning \
-         1. Introduction
+         1. HW 1
 author: |
-          Prof. Dr. Forrest Sheng Bao \
-          Dept. of Computer Science \
+          Sakib Ferdous \
+          Dept. of Chemical Engineering \
           Iowa State University \
           Ames, IA, USA \
 date:   \today
